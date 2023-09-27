@@ -23,7 +23,7 @@ It calculates annuity and differentiated payments for repaying loan. It uses _`a
 The classic Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os!
 <br />
 
-**How to play:** Consider the box as a 3x3 grid. To make a move, input the row number (x) separated by column number (y) → `x y`\
+**How to play:** Consider the box as a 3x3 grid. To make a move, input the row number (x) and the column number (y) separated by a space → `x y`\
 **Project details:** click [here](https://hyperskill.org/projects/73)
 
 ## Hangman
