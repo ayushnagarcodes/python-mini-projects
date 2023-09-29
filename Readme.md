@@ -2,6 +2,20 @@
 
 This repository showcases a collection of projects that I've created during my journey of learning Python. Each project reflects a different aspect of python language and highlights the skills I've acquired along the way.
 
+## Traffic Light
+
+It's a traffic light simulation which uses concepts of multi-threading and exceptions handling. It uses `os`, `time` and `threading` module.
+<br />
+
+**Project details:** click [here](https://hyperskill.org/projects/351).
+
+## Smart Calendar
+
+It's a simple reminder calendar that will be able to save notes and dates of birthdays in an external file and remind us about them. We can also view and delete them.
+<br />
+
+**Project details:** click [here](https://hyperskill.org/projects/355).
+
 ## Learning Progress Tracker
 
 It's a script that keeps track of the registered users, their learning progress, and metrics. It will also provide detailed information about each user or any category of users and the overall statistics for the entire learning platform.
