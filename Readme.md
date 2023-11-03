@@ -23,6 +23,14 @@ It's a script that keeps track of the registered users, their learning progress,
 
 **Project details:** click [here](https://hyperskill.org/projects/326).
 
+## X-mas Tree
+
+It can print a Christmas tree and a Christmas card depending on the number of input.
+<br />
+
+**How to use:** check out the comments after `# start of the program` comment to understand the input format.\
+**Project details:** click [here](https://hyperskill.org/projects/391).
+
 ## Caesar Cipher Decoder
 
 A script to decode Caesar Cipher. Learn [more](https://hyperskill.org/learn/step/29585).
