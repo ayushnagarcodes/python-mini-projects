@@ -2,6 +2,13 @@
 
 This repository showcases a collection of projects that I've created during my journey of learning Python. Each project reflects a different aspect of python language and highlights the skills I've acquired along the way.
 
+## CLI Chat OpenAI
+
+Chat with an AI model from OpenAI. Change the model in the program according to your needs. Type "End conversation", "Exit chat" or similar commands to exit the program. Don't forget to add your own OpenAI API key in a `.env` file.
+<br />
+
+**Project details:** click [here](https://hyperskill.org/projects/478).
+
 ## Traffic Light
 
 It's a traffic light simulation which uses concepts of multi-threading and exceptions handling. It uses `os`, `time` and `threading` module.
